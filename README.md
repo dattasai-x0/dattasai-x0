@@ -3,21 +3,14 @@
 </div>  
   
 
-### <div align="center">I'm Rishav,  👨‍💻a student passionate about cyebrsecurity,blockchain,networking 🚀</div>  
-  
+### <div align="center">I'm datta,  👨‍💻a student passionate about cyebrsecurity,blockchain,networking 🚀</div>  
 
 - 🌱 I’m currently learning dsa,rust,r,data science  
-  
-
 - ⚡ Fun fact: I am thinker  
-  
-
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 
 ### Tech Stack  
@@ -38,17 +31,9 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
-
 </td><td valign="top" width="33%">
-
-
-
 </td></tr></table>  
-
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -59,28 +44,10 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
 <br/>  
-
-  
-
 <br/>  
-
-  
-
 <br/>  
-
-  
-
 <br/>  
-
-  
-
 <br/>  
-
-
 <br />
-
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
